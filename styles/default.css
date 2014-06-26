@@ -1,0 +1,4 @@
+html > body .sidebar .promotion,
+html > body .npm-install.icon-download {
+    display: none !important;
+}
